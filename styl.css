@@ -37,7 +37,14 @@
             padding: 1em;
             margin: 0 1em;
         }
+        h2{
+            text-align: center;
+        }
 
+
+        .about{
+            text-align: center;
+        }
         section {
             padding: 2em;
         }
